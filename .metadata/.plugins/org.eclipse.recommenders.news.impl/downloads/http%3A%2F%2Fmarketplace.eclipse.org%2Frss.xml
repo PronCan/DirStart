@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>ABAP Favorites</title>
+    <link>http://marketplace.eclipse.org/content/abap-favorites</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/IMG_0123.PNG&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2017-07-02 10:48&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2017-07-09 06:33&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22ABAPBlog.com%22&quot;&gt;ABAPBlog.com&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/lpegiel/listings&quot; title=&quot;Łukasz Pęgiel&quot;&gt;Łukasz Pęgiel&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;A small plugin to create ABAP favorites list for transactions and urls.&lt;/p&gt;
+&lt;p&gt;It contains two views:&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;
+		Favorites&lt;/li&gt;
+&lt;li&gt;
+		Favorites Dev Objects&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Favorites view you can add Folders which are dependent or not from the SAP system as well as you can create a Folders with Development objecs. The difference is that The Folders which are not favorites of DevObjects are opened as &quot;Run&quot;, where DevObject Folders are open in editor.&lt;/p&gt;
+&lt;p&gt;For Favorites Dev Objects view, you can store there only DevObjects folders, so every entry is opened in editor.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Sun, 02 Jul 2017 14:48:52 +0000</pubDate>
+ <dc:creator>lpegiel</dc:creator>
+ <guid isPermaLink="false">3522403 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/abap-favorites#comments</comments>
+  </item>
+  <item>
+    <title>Angular Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/angular-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/AngularJS-Shield-small_0.png&quot; width=&quot;76&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-08-22 21:21&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2017-07-09 04:29&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Angelo%20ZERR%22&quot;&gt;Angelo ZERR&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/azerr/listings&quot; title=&quot;Angelo ZERR&quot;&gt;Angelo ZERR&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/angelozerr/angular2-eclipse/wiki/Getting-Started&quot; rel=&quot;nofollow&quot;&gt;Angular2 Eclipse&lt;/a&gt; is a set of plugins which provide support for &lt;a href=&quot;https://angular.io/&quot; rel=&quot;nofollow&quot;&gt;Angular2&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		it is based on &lt;a href=&quot;https://github.com/angelozerr/typescript.java/wiki/Getting-Started&quot; rel=&quot;nofollow&quot;&gt;TypeScript IDE&lt;/a&gt; for &lt;a href=&quot;https://www.typescriptlang.org/&quot; rel=&quot;nofollow&quot;&gt;TypeScript&lt;/a&gt; support.&lt;/li&gt;
+&lt;li&gt;
+		it integrates &lt;a href=&quot;https://github.com/angelozerr/angular2-eclipse/wiki/AngularCLI&quot; rel=&quot;nofollow&quot;&gt;angular-cli&lt;/a&gt; with &lt;a href=&quot;https://github.com/angelozerr/angular2-eclipse/wiki/ngTerminal&quot; rel=&quot;nofollow&quot;&gt;Terminal&lt;/a&gt;, &lt;a href=&quot;https://github.com/angelozerr/angular2-eclipse/wiki/ngWizards&quot; rel=&quot;nofollow&quot;&gt;Wizards&lt;/a&gt; and &lt;a href=&quot;https://github.com/angelozerr/angular2-eclipse/wiki/ngLaunches&quot; rel=&quot;nofollow&quot;&gt;Launches&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+		it extends WTP HTML Editor to support &lt;a href=&quot;https://github.com/angelozerr/angular2-eclipse/wiki/HTML-Editor&quot; rel=&quot;nofollow&quot;&gt;Angular2 syntax inside the HTML editor&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 23 Aug 2016 01:21:15 +0000</pubDate>
+ <dc:creator>azerr</dc:creator>
+ <guid isPermaLink="false">3037144 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/angular-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>TypeScript IDE</title>
+    <link>http://marketplace.eclipse.org/content/typescript-ide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Typescript_logo.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-08-22 21:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2017-07-09 04:27&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Angelo%20ZERR%22&quot;&gt;Angelo ZERR&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/azerr/listings&quot; title=&quot;Angelo ZERR&quot;&gt;Angelo ZERR&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/angelozerr/angular2-eclipse/wiki/Getting-Started&quot; rel=&quot;nofollow&quot;&gt;TypeScript IDE&lt;/a&gt; provides 2 main features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		a &lt;a href=&quot;https://github.com/angelozerr/typescript.java/wiki/Editor-Features&quot; rel=&quot;nofollow&quot;&gt;TypeScript Editor&lt;/a&gt; which provides TypeScript completion, validation hover, etc for TypeScript files (*.ts), JSX files (*.jsx/*.tsx) and even simple JavaScript file since TypeScript 1.8 supports it (Salsa).&lt;/li&gt;
+&lt;li&gt;
+		a &lt;a href=&quot;https://github.com/angelozerr/typescript.java/wiki/TypeScript-Compiler&quot; rel=&quot;nofollow&quot;&gt;TypeScript Compiler&lt;/a&gt; to compile on save, or build on save TypeScript *.ts/*.tsx files to emited *.js/*.js.map files&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 23 Aug 2016 01:03:27 +0000</pubDate>
+ <dc:creator>azerr</dc:creator>
+ <guid isPermaLink="false">3037133 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/typescript-ide#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse Class Decompiler</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-class-decompiler</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/components.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2012-10-15 06:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-07-08 15:44&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Chen%20Chao%28cnfree2000%40hotmail.com%29%22&quot;&gt;Chen Chao(cnfree2000@hotmail.com)&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/cchao/listings&quot; title=&quot;Chen Chao&quot;&gt;Chen Chao&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Eclipse Class Decompiler integrates JD, Jad, FernFlower, CFR, Procyon seamlessly with Eclipse and allows Java developers to &lt;strong&gt;debug class files without source code directly&lt;/strong&gt;. It also integrates with the eclipse class editor, m2e plugin, supports &lt;strong&gt;Javadoc,  reference search, library source attaching&lt;/strong&gt;, &lt;strong&gt;byte code view&lt;/strong&gt; and the syntax of JDK8 &lt;strong&gt;lambda expression&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Github Project Page: &lt;a href=&quot;http://www.cpupk.com/decompiler&quot; rel=&quot;nofollow&quot;&gt;http://www.cpupk.com/decompiler&lt;/a&gt;&lt;br /&gt;
+	Plugin Update Site: &lt;a href=&quot;http://www.cpupk.com/decompiler/update/&quot; rel=&quot;nofollow&quot;&gt;http://www.cpupk.com/decompiler/update/&lt;/a&gt;&lt;br /&gt;
+	Tutorial: &lt;a href=&quot;https://www.eclipse.org/community/eclipse_newsletter/2017/february/article8.php&quot; rel=&quot;nofollow&quot;&gt;The Features of Eclipse Class Decompiler&lt;/a&gt;&lt;/p&gt;
+
+
+
+			&lt;a class=&quot;colorbox init-colorbox-processed cboxElement&quot; href=&quot;https://marketplace.eclipse.org/sites/default/files/debug_0.png&quot; rel=&quot;nofollow&quot; title=&quot;Eclipse Class Decompiler&quot;&gt;&lt;/a&gt;
+
+			&lt;a class=&quot;colorbox init-colorbox-processed cboxElement&quot; href=&quot;https://marketplace.eclipse.org/sites/default/files/decompiler_0.png&quot; rel=&quot;nofollow&quot; title=&quot;Eclipse Class Decompiler&quot;&gt;&lt;/a&gt;
+
+
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 15 Oct 2012 10:11:20 +0000</pubDate>
+ <dc:creator>cchao</dc:creator>
+ <guid isPermaLink="false">472922 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-class-decompiler#comments</comments>
+  </item>
+  <item>
+    <title>SparkBuilderGenerator</title>
+    <link>http://marketplace.eclipse.org/content/sparkbuildergenerator</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/sparkbuildergeneratoricon.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2016-10-23 07:09&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-07-08 13:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/hsparkwpb/listings&quot; title=&quot;Helo Spark&quot;&gt;Helo Spark&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Generates a builder according to the GoF pattern for Java domain objects.&lt;/p&gt;
+&lt;h2&gt;
+	&lt;strong&gt;Features&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;
+		Generates a builder with custom name patterns&lt;/li&gt;
+&lt;li&gt;
+		Can generate &lt;a href=&quot;http://blog.crisp.se/2013/10/09/perlundholm/another-builder-pattern-for-java&quot; rel=&quot;nofollow&quot;&gt;staged builder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+		Capable of regenerating the builder&lt;/li&gt;
+&lt;li&gt;
+		Compatible with most version of Eclipse&lt;/li&gt;
+&lt;li&gt;
+		Highly configurable, check the plugin&#039;s preferences page&lt;/li&gt;
+&lt;li&gt;
+		Capable of generate builder methods for visible fields in superclass&lt;/li&gt;
+&lt;li&gt;
+		Open source (with very permissible MIT license)&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;
+	&lt;strong&gt;Usage&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;To invoke the generation have a Java file active and press either the icon on the toolbar (the hammer) or Ctrl+Shift+B.&lt;br /&gt;
+	You can click the small arrow next to the main icon to generate a different builder type (like staged builder), if you usually generate a certain kind of builder, set the default builder in the preferences page.&lt;br /&gt;
+	You can set the preferences under: &lt;strong&gt;&lt;em&gt;Window-&amp;gt;Preferences-&amp;gt;Java-&amp;gt;Spark Builder Generator&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;
+	&lt;strong&gt;Example result:&lt;/strong&gt;&lt;/h2&gt;
+&lt;pre&gt;
+  public class Clazz {
+        private Integer firstField;
+        private Long secondField;
+        @Generated(&quot;SparkTools&quot;)
+        private Clazz(Builder builder) {
+            this.firstField = builder.firstField;
+            this.secondField = builder.secondField;
+        }
+        /**
+         * Creates builder to build {@link Clazz}.
+         * @return created builder
+         */
+        @Generated(&quot;SparkTools&quot;)
+        public static Builder builder() {
+            return new Builder();
+        }
+        /**
+         * Builder to build {@link Clazz}.
+         */
+        @Generated(&quot;SparkTools&quot;)
+        public static class Builder {
+            private Integer firstField;
+            private Long secondField;
+
+            private Builder() {
+            }
+
+            /**
+            * Builder method for firstField parameter.
+            * @return builder
+            */
+            @Nonnull
+            public Builder withFirstField(@Nonnull Integer firstField) {
+                this.firstField = firstField;
+                return this;
+            }
+
+            /**
+            * Builder method for secondField parameter.
+            * @return builder
+            */
+            @Nonnull
+            public Builder withSecondField(@Nonnull Long secondField) {
+                this.secondField = secondField;
+                return this;
+            }
+
+            /**
+            * Builder method of the builder.
+            * @return built class
+            */
+            @Nonnull
+            public Clazz build() {
+                return new Clazz(this);
+            }
+        }
+    }
+&lt;/pre&gt;&lt;h2&gt;
+	&lt;strong&gt;Release notes&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;0.0.5&lt;/strong&gt; Added handling for code style prefix and suffix, see &lt;a href=&quot;https://github.com/helospark/SparkBuilderGenerator/issues/5&quot; rel=&quot;nofollow&quot;&gt;Github issue 5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;0.0.6&lt;/strong&gt; Added staged builder support., see &lt;a href=&quot;https://github.com/helospark/SparkBuilderGenerator/issues/4&quot; rel=&quot;nofollow&quot;&gt;Github issue 4&lt;/a&gt; Staged builder allows you to verify that all of the mandatory fields are set at compile time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;0.0.7&lt;/strong&gt; Option to add visible fields from superclasses to the builder, see &lt;a href=&quot;https://github.com/helospark/SparkBuilderGenerator/issues/7&quot; rel=&quot;nofollow&quot;&gt;Github issue 7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;0.0.8&lt;/strong&gt; Fixed regression bug that was introduced in 0.0.7. While collection visible fields from superclasses, under some Eclipse configurations IllegalArgumentException occurred during java.lang.Object parsing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;0.0.9&lt;/strong&gt; Added option to generate builder to selected class (in case of nested classes, or multiple classes in a single file), see &lt;a href=&quot;https://github.com/helospark/SparkBuilderGenerator/issues/10&quot; rel=&quot;nofollow&quot;&gt;Github issue 10&lt;/a&gt; Improvements to previous Builder class removing logic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;0.0.10&lt;/strong&gt; Added the option to select which fields are generated in the builder, see &lt;a href=&quot;https://github.com/helospark/SparkBuilderGenerator/issues/8&quot; rel=&quot;nofollow&quot;&gt;Github issue 8&lt;/a&gt;&lt;br /&gt;
+	Fixed a small bug that deleted the previous builder when pressing the cancel button on the staging builder generator dialog Added MIT license file to plugin&#039;s site.xml, so it will show up on installation&lt;/p&gt;
+&lt;h2&gt;
+	&lt;strong&gt;Troubleshooting installation failure&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Here are some common reasons installation fails, and steps to resolve&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;sun.security.validator.ValidatorException: PKIX path building failed&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This happens, because your Java is unable to verify the certificate used by the update site. The update site uses valid certificate from &lt;strong&gt;Let&#039;s Encrypt&lt;/strong&gt;, older Java (before 1.8.101) does not contain this root certificate. This together with some firewall settings can cause this error.&lt;br /&gt;
+	See this article: &lt;a href=&quot;https://dzone.com/articles/eclipse-plug-ins-via-https-amp-lets-encrypt&quot; rel=&quot;nofollow&quot;&gt;https://dzone.com/articles/eclipse-plug-ins-via-https-amp-lets-encrypt&lt;/a&gt;&lt;br /&gt;
+	Possible way to fix:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Update Java version to at lest 1.8.101&lt;/li&gt;
+&lt;li&gt;
+		Import Let&#039;s Encrypt root certificate manually (refer to above article)&lt;/li&gt;
+&lt;li&gt;
+		Use my FTP download site (See below)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Connection timeout&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is a temporary problem, while accessing the update site. The server most of the times will be available again in a couple of minutes.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		You may try the FTP download site (see below)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;For any other failure please contact me in the comments or Github.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Installing via FTP update site&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In your Eclipse go to:&lt;/p&gt;
+&lt;p&gt;Help-&amp;gt;Install new software-&amp;gt;Copy and paste the following URI:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;ftp://helospark.com:21/eclipse_plugin/SparkBuilderGeneratorPlugin/&quot; rel=&quot;nofollow&quot;&gt;ftp://helospark.com:21/eclipse_plugin/SparkBuilderGeneratorPlugin/&lt;/a&gt;&lt;br /&gt;
+	(alternatively if port 21 is blocked, use port 799)&lt;br /&gt;
+	Select the latest version (should be under SparkTools category) and install.&lt;/p&gt;
+&lt;p&gt;	&lt;strong&gt;Installing from backup&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In case both FTP and HTTPS update sites are unavailable, you can install jar file from Mediafire backup:&lt;br /&gt;&lt;a href=&quot;http://www.mediafire.com/folder/ya4g0y69b24vu/plugins&quot; rel=&quot;nofollow&quot;&gt;www.mediafire.com/folder/ya4g0y69b24vu/plugins&lt;/a&gt;&lt;br /&gt;
+	Locate the jar file, you wish to install (probably the latest), and copy it to your Eclipse&#039;s dropin folder.&lt;/p&gt;
+&lt;h3&gt;
+	&lt;strong&gt;Additional information:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;On the GitHub page: &lt;a href=&quot;https://github.com/helospark/SparkBuilderGenerator&quot; rel=&quot;nofollow&quot;&gt;https://github.com/helospark/SparkBuilderGenerator&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Sun, 23 Oct 2016 11:09:34 +0000</pubDate>
+ <dc:creator>hsparkwpb</dc:creator>
+ <guid isPermaLink="false">3130970 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/sparkbuildergenerator#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse Java EE Developer Tools</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-java-ee-developer-tools-0</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wtp_logo_2010-80x80_1.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-07-06 21:31&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-07-08 13:07&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22The%20Eclipse%20Foundation%22&quot;&gt;The Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/nitind/listings&quot; title=&quot;Nitin Dahyabhai&quot;&gt;Nitin Dahyabhai&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Enables Enterprise Java Bean, Java Enterprise Application, Fragments, and Connector, Java Web Application, JavaServer Faces (JSF), Java Server Pages (JSP), Java Servlet, Java Web Services, and Tag Library development and debugging, plus Java Enterprise server and Java Servlet Container launching and debugging. Includes the JSP, HTML, CSS, and JSON Editors, JavaScript Developer Tools, the XML, XML Schema, and DTD Editors from the Eclipse Web Tools Platform project. If you&#039;re developing web applications with a Java-based back-end, this one&#039;s for you.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Thu, 07 Jul 2016 01:31:37 +0000</pubDate>
+ <dc:creator>nitind</dc:creator>
+ <guid isPermaLink="false">2963451 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-java-ee-developer-tools-0#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse Web Developer Tools</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-web-developer-tools-0</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wtp_logo_2010-80x80_0.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-07-06 20:07&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-07-08 13:02&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22The%20Eclipse%20Foundation%22&quot;&gt;The Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/nitind/listings&quot; title=&quot;Nitin Dahyabhai&quot;&gt;Nitin Dahyabhai&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Includes the HTML, CSS, and JSON Editors, and JavaScript Development Tools from the Eclipse Web Tools Platform project, aimed at supporting client-side web development and node.js applications. Also installs the XML, XML Schema, and DTD Editors from the Eclipse Web Tools Platform project. If you need to edit HTML, CSS, and JavaScript files, whether you&#039;re developing web applications or not, whatever the back-end, this one&#039;s for you.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Thu, 07 Jul 2016 00:07:19 +0000</pubDate>
+ <dc:creator>nitind</dc:creator>
+ <guid isPermaLink="false">2963400 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-web-developer-tools-0#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse XML Editors and Tools</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools-0</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wtp_logo_2010-80x80.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2016-06-30 18:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-07-08 13:01&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22The%20Eclipse%20Foundation%22&quot;&gt;The Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/nitind/listings&quot; title=&quot;Nitin Dahyabhai&quot;&gt;Nitin Dahyabhai&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Includes the XML, XML Schema, and DTD Editors and Tools, and XSL Developer Tools from the Eclipse Web Tools Platform project.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Thu, 30 Jun 2016 22:52:29 +0000</pubDate>
+ <dc:creator>nitind</dc:creator>
+ <guid isPermaLink="false">2953952 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools-0#comments</comments>
+  </item>
+  <item>
+    <title>JUnit-Tools</title>
+    <link>http://marketplace.eclipse.org/content/junit-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo_lg_110x110_0.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-01-05 14:20&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-07-08 11:18&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22JUnit-Tools-Team%22&quot;&gt;JUnit-Tools-Team&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/gstreng/listings&quot; title=&quot;Gerhard Streng&quot;&gt;Gerhard Streng&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;A set of tools to optimize the creation and maintainability of JUnit tests. Write less, test more! The main feature of JUnit-Tools is to generate JUnit test-elements (packages, classes, methods, test-cases, mocks) depending on an existing java-class and logic. It supports the Test-After Development: Create JUnit-tests after writing or modifying application code. Other input-channels (e.g. UML-models) for the generation of test-elements to support Test-Driven Development are possible but not available yet. JUnit-tests usually have a similar structure: Create the preconditions, run the class under test, validate the postconditions. The created test-elements for the classes and methods should have the same name-conventions to find easily the corresponding tests. These are good reasons for a generator. The main difference to other tools is, that JUnit-Tools is complete open source and that it is easy to adapt the structure and generated output to the own needs and requirements. There are many extension points and interfaces to change and contribute the base-implementations. An integration for the IDE eclipse is available and it&#039;s easy to install, set up and run the tools. If you have any questions or issues, please feel free and send us an email: &lt;a href=&quot;mailto:support@junit-tools.org&quot; rel=&quot;nofollow&quot;&gt;support@junit-tools.org&lt;/a&gt; We are also happy about feedback and any ideas to improve the JUnit-Tools.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 05 Jan 2016 19:20:51 +0000</pubDate>
+ <dc:creator>gstreng</dc:creator>
+ <guid isPermaLink="false">2670402 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/junit-tools#comments</comments>
+  </item>
+  <item>
+    <title>Subclipse</title>
+    <link>http://marketplace.eclipse.org/content/subclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/cn_svn.png&quot; width=&quot;52&quot; height=&quot;43&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2009-08-05 09:20&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-07-07 16:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Subclipse%20Project%22&quot;&gt;Subclipse Project&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mphippard/listings&quot; title=&quot;Mark Phippard&quot;&gt;Mark Phippard&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;An Eclipse Team Provider plug-in providing support for Subversion within the Eclipse IDE. Developed and maintained by Subversion core committers, Subclipse is always in synch with the latest Subversion features and releases. Subclipse includes the CollabNet Merge Client originally developed as part of the &lt;a href=&quot;http://marketplace.eclipse.org/content/collabnet-desktop-eclipse-edition&quot; rel=&quot;nofollow&quot;&gt;CollabNet Desktop - Eclipse Edition&lt;/a&gt;. The CollabNet Merge Client provides powerful graphical merge capabilities that leverages the merge tracking functionality that was added as part of the Subversion 1.5 release. Subclipse includes an optional Mylyn connector that enables Mylyn to create automatic changesets based on the tasks you are working on. It also enables links to tasks when viewing history of Subversion commits. Finally, Subclipse includes a powerful revision graph feature that is built with Eclipse GEF/Draw2D. This allows you to visualize commits and merges across Subversion branches. &lt;a href=&quot;http://subclipse.tigris.org/servlets/ProjectProcess?pageID=rr1TIx&quot; rel=&quot;nofollow&quot;&gt;Subclipse Screenshots on tigris.org&lt;/a&gt; Need a Subversion server, too? Checkout &lt;a href=&quot;http://www.open.collab.net/downloads/subversion?cid=empsvn&quot; rel=&quot;nofollow&quot;&gt;CollabNet Subversion Edge&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Wed, 05 Aug 2009 13:20:32 +0000</pubDate>
+ <dc:creator>mphippard</dc:creator>
+ <guid isPermaLink="false">979 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/subclipse#comments</comments>
+  </item>
+  </channel>
+</rss>

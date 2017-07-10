@@ -1,0 +1,34 @@
+import java.awt.*;
+import java.io.File;
+
+import javax.swing.*;
+
+public class main {
+	public static void main(String[] args) {
+//	        JFrame frame = new JFrame("Transparent Window");
+//	        frame.setUndecorated(true);
+//	        frame.setBackground(new Color(0, 0, 0, 0));
+//	        frame.setAlwaysOnTop(true);
+//	        // Without this, the window is draggable from any non transparent
+//	        // point, including points  inside textboxes.
+//	        frame.getRootPane().putClientProperty("apple.awt.draggableWindowBackground", false);
+//
+//	        frame.getContentPane().setLayout(new java.awt.BorderLayout());
+//	        frame.getContentPane().add(new JTextField("text field north"), java.awt.BorderLayout.NORTH);
+//	        frame.getContentPane().add(new JTextField("text field south"), java.awt.BorderLayout.SOUTH);
+//	        frame.setVisible(true);
+//	        frame.pack();
+		
+		// using this in real life, you'd probably want to check that the desktop
+		// methods are supported using isDesktopSupported()...
+
+		String htmlFilePath = "path/to/html/file.html"; // path to your new file
+		File htmlFile = new File(htmlFilePath);
+
+		// open the default web browser for the HTML page
+		Desktop.getDesktop().browse(htmlFile.toURI());
+
+		// if a web browser is the default HTML handler, this might work too
+		Desktop.getDesktop().open(htmlFile);
+	    }
+}
